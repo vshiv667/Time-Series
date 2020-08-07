@@ -7,8 +7,7 @@ My intuition: Coca-Cola is a beverage that is affected by seasons, in summer peo
 Built an exponential multiplicative model. Obtained the best fit, adjusted for time trends and seasonality (i.e. change in year & quarter).
 Provided economic interpretations for all co-efficients in the model to make business sense.
 
-Regression table: 
- 
+( Refer Regression table file)
 
 b1: 0.023603
 On average, every quarter, sales increases by 2.3% adjusted for seasonality.
